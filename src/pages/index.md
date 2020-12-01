@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: PM Documentation
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: '### Testing a Stackbit site for PM docs.'
     image: images/avatar.png
   - title: Text
     section_id: intro
